@@ -11,4 +11,4 @@ Repository ini juga kami fungsikan untuk menyelesaikan tugas akhir semester di m
 - implementasi
 
 ## Responsi2 PD2
-&copy panjibaskoro & friends
+&copy; panjibaskoro & friends
