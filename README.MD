@@ -13,15 +13,15 @@ Repository ini juga kami fungsikan untuk menyelesaikan tugas akhir semester di m
 ## Progress 
 - Tanggal 25 November 2018
 
--- Coba connect ke database menggunakan visual studio code menemui masalah
--- problem hak akses ketika connect ke database online di internet
--- mencoba mengatasi kegagalan connect ke database saat menggunakan visula studio dengan menggunakan classpath gagal
--- mencoba mengatasi kegagalan connect ke database dengan maven juga gagal
--- 
+	- Coba connect ke database menggunakan visual studio code menemui masalah
+	- problem hak akses ketika connect ke database online di internet
+	- mencoba mengatasi kegagalan connect ke database saat menggunakan visula studio dengan menggunakan classpath gagal
+	- mencoba mengatasi kegagalan connect ke database dengan maven juga gagal
+ 
 
--- menggunakan Netbeans connect lancar
--- kedepannya akan menggunakan server local
--- meneliti kemungkinan penggunaan API di Java (Jersey)
+	- menggunakan Netbeans connect lancar
+	- kedepannya akan menggunakan server local
+	- meneliti kemungkinan penggunaan API di Java (Jersey)
 
 ## Responsi2 PD2
 &copy; panjibaskoro & friends
