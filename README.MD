@@ -23,5 +23,11 @@ Repository ini juga kami fungsikan untuk menyelesaikan tugas akhir semester di m
 	- kedepannya akan menggunakan server local
 	- meneliti kemungkinan penggunaan API di Java (Jersey)
 
+- Tanggal 26 November 2018
+	
+	- berhasil memasukkan library menggunakan classpath
+		- ternyata selama ini salah menggunakan cara import classpath yang ada di windows 
+	- Meng-setup auto classpath dan auto run java menggunakan run.sh
+ 
 ## Responsi2 PD2
 &copy; panjibaskoro & friends
