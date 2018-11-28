@@ -17,11 +17,8 @@ Repository ini juga kami fungsikan untuk menyelesaikan tugas akhir semester di m
 	- problem hak akses ketika connect ke database online di internet
 	- mencoba mengatasi kegagalan connect ke database saat menggunakan visula studio dengan menggunakan classpath gagal
 	- mencoba mengatasi kegagalan connect ke database dengan maven juga gagal
- 
-
 	- menggunakan Netbeans connect lancar
 	- kedepannya akan menggunakan server local
-	- meneliti kemungkinan penggunaan API di Java (Jersey)
 
 - Tanggal 26 November 2018
 	
