@@ -25,6 +25,14 @@ Repository ini juga kami fungsikan untuk menyelesaikan tugas akhir semester di m
 	- berhasil memasukkan library menggunakan classpath
 		- ternyata selama ini salah menggunakan cara import classpath yang ada di windows 
 	- Meng-setup auto classpath dan auto run java menggunakan run.sh
- 
+
+- Tanggal 29 November 2018
+	- Setting pesan saat connect ke database dan log file
+	- Setting koneksi database
+	- menata class
+
+- Tangal 30 November 2018
+	- Membuat tampilan interface awal
+
 ## Responsi2 PD2
 &copy; panjibaskoro & friends
